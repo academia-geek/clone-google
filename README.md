@@ -7,3 +7,5 @@ El siguiente proyecto busca orientar y poner en práctica los conceptos básicos
 - Clases
 - ID (Identificadores)
 
+# Enlace de la página
+https://agileinnova.github.io/clone-google/index.html
